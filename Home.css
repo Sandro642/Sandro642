@@ -247,3 +247,13 @@
     width: 340px;
   }
 }
+
+
+::-webkit-scrollbar {
+    width: 10px;
+    background-color: gray;
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    background-color: #4e4745;
+  }
