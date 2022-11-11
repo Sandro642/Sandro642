@@ -1,0 +1,249 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 921px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 246px;
+  height: 246px;
+  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+  margin: 396px 42px 0 auto;
+}
+
+.u-section-1 .u-text-1 {
+  font-weight: 700;
+  margin: -201px 991px 0 30px;
+}
+
+.u-section-1 .u-text-2 {
+  font-weight: 700;
+  font-size: 3rem;
+  margin: 0 auto 0 30px;
+}
+
+.u-section-1 .u-text-3 {
+  font-weight: 700;
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+  font-size: 3rem;
+  margin: -52px auto 0 175px;
+}
+
+.u-section-1 .u-btn-1 {
+  border-style: solid;
+  font-size: 1.5rem;
+  font-weight: 700;
+  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+  margin: 42px auto 60px 30px;
+  padding: 8px 33px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-image-1 {
+    margin-top: 495px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: -190px;
+    margin-right: 821px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: -10px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-top: 19px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-text-1 {
+    margin-right: 601px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-text-1 {
+    margin-right: 421px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-image-1 {
+    margin-top: 443px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: -138px;
+    margin-right: 221px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: 171px;
+    font-size: 1.5rem;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-top: -222px;
+    margin-left: 110px;
+    font-size: 1.5rem;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 945px;
+}
+
+.u-section-2 .u-layout-wrap-1 {
+  margin-top: 60px;
+  margin-bottom: 60px;
+}
+
+.u-section-2 .u-image-1 {
+  min-height: 590px;
+  background-image: url("images/6d76547d82aa75d89bb6daf1ac22deec3bcccff92e61655ade59f0e85a9a8d092c1edc0d5f4de493fda40ceb6ac9d67681aa220aa1ac58590972c3_1280.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-container-layout-1 {
+  padding: 30px 60px;
+}
+
+.u-section-2 .u-layout-cell-2 {
+  min-height: 590px;
+}
+
+.u-section-2 .u-container-layout-2 {
+  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+  padding: 30px 60px;
+}
+
+.u-section-2 .u-text-1 {
+  margin: 90px auto 0 0;
+}
+
+.u-section-2 .u-text-2 {
+  margin: 20px 0 0;
+}
+
+.u-section-2 .u-btn-1 {
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  letter-spacing: 2px;
+  background-image: none;
+  border-style: solid;
+  margin: 60px auto 0 0;
+  padding: 10px 34px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 481px;
+  }
+
+  .u-section-2 .u-image-1 {
+    min-height: 486px;
+  }
+
+  .u-section-2 .u-layout-cell-2 {
+    min-height: 486px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 367px;
+  }
+
+  .u-section-2 .u-image-1 {
+    min-height: 372px;
+  }
+
+  .u-section-2 .u-container-layout-1 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .u-section-2 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+
+  .u-section-2 .u-container-layout-2 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 653px;
+  }
+
+  .u-section-2 .u-image-1 {
+    min-height: 558px;
+  }
+
+  .u-section-2 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 446px;
+  }
+
+  .u-section-2 .u-image-1 {
+    min-height: 351px;
+  }
+}.u-section-3 .u-sheet-1 {
+  min-height: 737px;
+}
+
+.u-section-3 .u-text-1 {
+  font-weight: 700;
+  text-decoration: underline !important;
+  margin: 159px auto 0;
+}
+
+.u-section-3 .u-form-1 {
+  height: 329px;
+  width: 570px;
+  margin: 55px auto 60px;
+}
+
+.u-section-3 .u-input-1 {
+  font-weight: 700;
+}
+
+.u-section-3 .u-input-2 {
+  font-weight: 700;
+}
+
+.u-section-3 .u-input-3 {
+  font-weight: 700;
+}
+
+.u-section-3 .u-btn-1 {
+  font-weight: 700;
+  border-style: solid;
+}
+
+@media (max-width: 767px) {
+  .u-section-3 .u-form-1 {
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3 .u-form-1 {
+    width: 340px;
+  }
+}
