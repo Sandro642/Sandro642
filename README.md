@@ -1,6 +1,5 @@
 # Hello I am Sandro.
-### Im student developer and i love code with JAVA. 
-Future fighter pilot!
+### Im student developer and i love code with JAVA. Future fighter pilot!
 ### Developer at Armania.
 <img src="https://img.shields.io/badge/Dev-Java-orange?style=for-the-badge"> <img src="https://img.shields.io/badge/Code-DevOps-red?style=for-the-badge"> <img src="https://img.shields.io/badge/Love-Bash-green?style=for-the-badge"> <img src="https://img.shields.io/badge/Like-TypeScript-blue?style=for-the-badge">
 
