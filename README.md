@@ -1,4 +1,4 @@
-# Hello I am Sandro.
+# Hello I am Sandro Soria.
 ### Im student developer and i love code. Future fighter pilot!
 ### I love java, JavaScript and bash.
 <img src="https://img.shields.io/badge/Dev-Java-orange?style=for-the-badge"> <img src="https://img.shields.io/badge/Code-DevOps-red?style=for-the-badge"> <img src="https://img.shields.io/badge/Love-Bash-green?style=for-the-badge"> <img src="https://img.shields.io/badge/Like-TypeScript-blue?style=for-the-badge">
