@@ -1,6 +1,19 @@
 # Hello I am Sandro Soria.
-### Im student developer and i love code. Future fighter pilot!
-### I love java, JavaScript and bash.
-<img src="https://img.shields.io/badge/Dev-Java-orange?style=for-the-badge"> <img src="https://img.shields.io/badge/Code-DevOps-red?style=for-the-badge"> <img src="https://img.shields.io/badge/Love-Bash-green?style=for-the-badge"> <img src="https://img.shields.io/badge/Like-TypeScript-blue?style=for-the-badge">
+### En tant qu'étudiant au lycée, je suis passionné d'informatique et je consacre énormément de temps au codage. Depuis mon plus jeune âge, j'ai été captivé par la logique et la créativité du monde de la programmation. J'adore résoudre des problèmes complexes et créer des applications qui apportent des solutions innovantes.
 
-![Metrics](https://metrics.lecoq.io/Sandro642?template=classic&projects=1&activity=1&followup=1&languages=1&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&followup=false&followup.sections=repositories&followup.indepth=false&followup.archived=true&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&projects=false&projects.limit=4&projects.descriptions=false&config.timezone=Europe%2FParis)
+Le code est devenu mon moyen d'expression privilégié. Je passe des heures à perfectionner mes compétences en utilisant différents langages de programmation et en explorant de nouvelles technologies. Je suis constamment à la recherche de défis pour améliorer mes capacités et repousser mes limites. Chaque ligne de code que j'écris est une opportunité d'apprendre et de grandir.
+
+Mon objectif est de me faire une réputation dans le domaine de l'informatique. Je veux être reconnu pour ma maîtrise technique, ma créativité et ma capacité à trouver des solutions novatrices. Je suis prêt à investir le temps et l'effort nécessaires pour atteindre cet objectif. Je participe activement à des projets personnels et j'essaie de m'impliquer dans des communautés en ligne où je peux échanger avec d'autres passionnés de codage.
+
+En somme, en tant qu'étudiant au lycée, je suis profondément passionné par l'informatique et le codage. Je suis déterminé à me faire une réputation en développant mes compétences et en contribuant à la communauté des programmeurs. Je suis impatient de relever de nouveaux défis et d'explorer les opportunités qui se présenteront à moi dans ce domaine passionnant.
+
+# Mes skills 
+
+https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white
+https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
+https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white
+https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D
+
+# By me a coffee
+
+https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black
