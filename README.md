@@ -1,4 +1,4 @@
-# Hello I am Sandro Soria.
+# Hey je m'appelle Sandro Soria !
 ### En tant qu'étudiant au lycée, je suis passionné d'informatique et je consacre énormément de temps au codage. Depuis mon plus jeune âge, j'ai été captivé par la logique et la créativité du monde de la programmation. J'adore résoudre des problèmes complexes et créer des applications qui apportent des solutions innovantes.
 
 Le code est devenu mon moyen d'expression privilégié. Je passe des heures à perfectionner mes compétences en utilisant différents langages de programmation et en explorant de nouvelles technologies. Je suis constamment à la recherche de défis pour améliorer mes capacités et repousser mes limites. Chaque ligne de code que j'écris est une opportunité d'apprendre et de grandir.
