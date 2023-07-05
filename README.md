@@ -5,7 +5,7 @@
 
 ### Mon objectif est de me faire une réputation dans le domaine de l'informatique. Je veux être reconnu pour ma maîtrise technique, ma créativité et ma capacité à trouver des solutions novatrices. Je suis prêt à investir le temps et l'effort nécessaires pour atteindre cet objectif. Je participe activement à des projets personnels et j'essaie de m'impliquer dans des communautés en ligne où je peux échanger avec d'autres passionnés de codage.
 
-### En somme, en tant qu'étudiant au lycée, je suis profondément passionné par l'informatique et le codage. Je suis déterminé à me faire une réputation en ### développant mes compétences et en contribuant à la communauté des programmeurs. Je suis impatient de relever de nouveaux défis et d'explorer les opportunités qui se présenteront à moi dans ce domaine passionnant.
+### En somme, en tant qu'étudiant au lycée, je suis profondément passionné par l'informatique et le codage. Je suis déterminé à me faire une réputation en développant mes compétences et en contribuant à la communauté des programmeurs. Je suis impatient de relever de nouveaux défis et d'explorer les opportunités qui se présenteront à moi dans ce domaine passionnant.
 
 # Mes skills 
 
