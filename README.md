@@ -7,7 +7,7 @@
 
 ### En somme, en tant qu'étudiant au lycée, je suis profondément passionné par l'informatique et le codage. Je suis déterminé à me faire une réputation en développant mes compétences et en contribuant à la communauté des programmeurs. Je suis impatient de relever de nouveaux défis et d'explorer les opportunités qui se présenteront à moi dans ce domaine passionnant.
 
-### Je rêverai d'intégré l'école @EPITA après avoir passé mon bac pro à la Rochelle pour passer un un bts (Devenir ingénieur) et avoir mon master.
+### Je rêverai d'intégré l'école @EPITA après avoir passé mon bac pro à la Rochelle pour passer un bts (Devenir ingénieur) et avoir mon master.
 
 # Mes skills 
 
