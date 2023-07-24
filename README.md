@@ -23,7 +23,7 @@
 <center>
   <a href="https://www.buymeacoffee.com/sandro642"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"></a>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sandro642)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sandro642&show_icons=true&theme=radical)
 
 </center>
 
