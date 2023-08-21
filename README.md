@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+!;Je+suis+Sandro+Soria...;Etudiant+Ingénieur+à+La+Rochelle;Lis+ma+description+si+tu+pense+que+c'est+intéressant+!&center=true&size=30&color=#cc5e46">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey;Je+suis+Sandro+Soria.;Etudiant+Ingénieur+à+La+Rochelle;Lis+ma+description+si+tu+pense+que+c'est+intéressant+!&center=true&size=30&color=#cc5e46">
   </a>
 </h1>
 ### En tant qu'étudiant au lycée, je suis passionné d'informatique et je consacre énormément de temps au codage. Depuis mon plus jeune âge, j'ai été captivé par la logique et la créativité du monde de la programmation. J'adore résoudre des problèmes complexes et créer des applications qui apportent des solutions innovantes.
