@@ -28,9 +28,3 @@
   <img src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82">
 </center>
 
-# Buy me a coffee
-
-<center>
-  <a href="https://www.buymeacoffee.com/sandro642"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"></a>
-</center>
-
