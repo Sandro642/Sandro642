@@ -4,9 +4,9 @@
   </a>
 </h1>
 
-<center>
-  <img src="sadness.png" align="center" width="120" height="120">
-</center>
+<div style="display: flex; justify-content: center;">
+  <img src="sadness.png" alt="Description de l'image" style="border-radius: 15px; max-width: 100%; height: auto;">
+</div>
 
 ### Etudiant au lycée, je suis passionné d'informatique et je consacre énormément de temps au codage. Depuis mon plus jeune âge, j'ai été captivé par la logique et la créativité du monde de la programmation. J'adore résoudre des problèmes complexes et créer des applications qui apportent des solutions innovantes.
 
