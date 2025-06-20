@@ -5,7 +5,7 @@
 </h1>
 
 <center>
-  <img src="sadness.png" style="width: 150px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+  <img src="sadness.png"">
 </center>
 
 ### Etudiant au lycée, je suis passionné d'informatique et je consacre énormément de temps au codage. Depuis mon plus jeune âge, j'ai été captivé par la logique et la créativité du monde de la programmation. J'adore résoudre des problèmes complexes et créer des applications qui apportent des solutions innovantes.
