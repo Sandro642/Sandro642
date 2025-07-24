@@ -2,11 +2,6 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Salut+!;Je+suis+Sandro+Soria.;Lis+la+desc+!&center=true&size=20&color=#cc5e46">
   </a>
-</h1>
-
-<div style="display: flex; justify-content: center;">
-  <img src="sadness.png" alt="Description de l'image" style="border-radius: 50px; width: 50%; height: auto;">
-</div>
 
 ### Etudiant au lycée, je suis passionné d'informatique et je consacre énormément de temps au codage. Depuis mon plus jeune âge, j'ai été captivé par la logique et la créativité du monde de la programmation. J'adore résoudre des problèmes complexes et créer des applications qui apportent des solutions innovantes.
 
