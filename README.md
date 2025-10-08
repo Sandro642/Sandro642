@@ -11,13 +11,17 @@
 
 ### En tant que programmeur (développeur), je suis profondément passionné par l'informatique et le codage. Je suis déterminé à me faire une réputation en développant mes compétences et en contribuant à la communauté des programmeurs. Je suis impatient de relever de nouveaux défis et d'explorer les opportunités qui se présenteront à moi dans ce domaine passionnant.
 
+---
 # Mes skills 
+
 
 <center>
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
 </center>
+
+---
 
 # Mes Frameworks favoris
 
@@ -28,3 +32,10 @@
   <img src="https://img.shields.io/badge/Project%20Reactor-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 </center>
 
+---
+
+# ERASMUS+
+<center>
+  <img src="imgs/cyprus.png">
+</center>
+---
