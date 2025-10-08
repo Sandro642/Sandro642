@@ -36,7 +36,10 @@
 
 # ERASMUS+
 <center>
-  <img src="imgs/cyprus.png">
+
+  ```
+  CYPRUS
+  ```
 </center>
 
 ---
