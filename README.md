@@ -35,4 +35,21 @@
   ```
 </center>
 
+
+```mermaid
+timeline
+title My Journey
+age of 11 : Javascript
+: Batch script
+age of 12 : Java
+: HTML
+: CSS
+age of 13 : GLSL
+: C-Sharp
+age of 14 : C++
+: Kotlin
+age of 15 : Rust
+age of 16 : Assembly
+```
+
 ---
