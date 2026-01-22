@@ -1,5 +1,7 @@
 I'm passionnate about new technologies and aeronautics.
 
+Currently learning Rust
+
 ```mermaid
 timeline
 title My entire life
