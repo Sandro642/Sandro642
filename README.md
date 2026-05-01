@@ -16,7 +16,7 @@ Age of 17 : Rust
 ```mermaid
 timeline
 title My Projects
-ConnectLib : Finished (https://connectlib.xyz)
-NodeLink : Currently working on it (https://nodelinkapp.xyz)
-OreRatio : Currently working on it
+ConnectLib : Finished (https://connectlib.xyz) (Java)
+NodeLink : Currently working on it (https://nodelinkapp.xyz) (Rust)
+OreRatio : Currently working on it (Java)
 ```
