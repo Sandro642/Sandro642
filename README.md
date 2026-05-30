@@ -1,5 +1,7 @@
 I'm passionnate about new technologies and aeronautics.
 
+<img src="me"></img>
+
 Currently learning Rust
 
 ```mermaid
