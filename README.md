@@ -6,7 +6,7 @@ timeline
 title My entire life
 Age of 13 : Java
 Age of 15 : Typescript
-Age of 17 : Rust
+Age of 17 - 18 : Rust
 ```
 
 ---
