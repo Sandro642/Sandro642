@@ -16,8 +16,8 @@ Age of 17 - 18 : Rust
 timeline
 title My Projects
 ConnectLib : Finished (https://connectlib.xyz) (Java)
-NodeLink : Standby, until learn Rust (https://nodelinkapp.xyz) (Rust)
 OreRatio : Standby (Java)
+NodeLink : Standby, until learn Rust (https://nodelinkapp.xyz) (Rust)
 ```
 
 
