@@ -22,5 +22,5 @@ NodeLink : Standby, until learn Rust (https://nodelinkapp.xyz) (Rust)
 
 
 <a href="https://nodelinkapp.xyz/" class="nodelink-banner" title="Aller sur NodeLink App">
-        <img src="https://github.com/NodeLink-Project/NL-Web/blob/6e74af213f5ef5f61ab48aa3878fdd9cd0e460cc/og.png" alt="Bannière de NodeLink : Transfert Décentralisé">
+        <img src="og.gif" alt="Bannière de NodeLink : Transfert Décentralisé">
 </a>
